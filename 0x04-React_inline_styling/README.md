@@ -1,2 +1,2 @@
-## React inline styling
-Practising inline styling in React
+# 0x04. React inline styling
+Practising inline styling
